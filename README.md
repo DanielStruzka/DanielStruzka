@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielStruzka
-- 👀 I’m interested in playing pc games
+- 👀 I’m interested in pc games
 - 🌱 I’m currently learning C++ and C#
 
 
